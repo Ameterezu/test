@@ -1,0 +1,26 @@
+<Ads formatVersion="3" target="Avito.ru">
+    <Ad>
+    <ListingFee>PackageSingle</ListingFee>
+    <Id>Test_attachment_2</Id>
+    <AdStatus>Free</AdStatus>
+    <!--inner_id:-->
+    <Address>г. Нижний Новгород, улица Ларина, 30</Address>
+    <Longitude>44.017296</Longitude>
+    <Latitude>56.237026</Latitude>
+    <ContactPhone>78312312304</ContactPhone>
+    <ManagerName>Менеджер</ManagerName>
+    <EMail>67383_cc@noemail.ru</EMail>
+    <AllowEmail>Да</AllowEmail>
+    <Price>30000</Price>
+    <Category>Грузовики и спецтехника</Category>
+    <GoodsType>Навесное оборудование</GoodsType>
+    <Title>Навесное оборудование - объявление должно быть успешно подано</Title>
+    <Condition>Б/у</Condition>
+    <Description>Тестовое описание</Description>
+    <Images>
+      <Image url="http://img.carcopy.ru/df4f/eb19/bfce/030a/9c73/daa7/5afb/c005/838f/c58d/df4feb19bfce030a9c73daa75afbc005838fc58d_1600x0.jpg?ts=1598430024"/>
+    </Images>
+    <VideoURL/>
+    <AdStatus/>
+  </Ad>
+</Ads>
